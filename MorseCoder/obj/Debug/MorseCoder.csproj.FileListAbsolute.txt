@@ -1,0 +1,9 @@
+C:\Users\elro\source\repos\MorseCoder\MorseCoder\bin\Debug\MorseCoder.exe.config
+C:\Users\elro\source\repos\MorseCoder\MorseCoder\bin\Debug\MorseCoder.exe
+C:\Users\elro\source\repos\MorseCoder\MorseCoder\bin\Debug\MorseCoder.pdb
+C:\Users\elro\source\repos\MorseCoder\MorseCoder\obj\Debug\MorseCoder.csprojAssemblyReference.cache
+C:\Users\elro\source\repos\MorseCoder\MorseCoder\obj\Debug\MorseCoder.Form1.resources
+C:\Users\elro\source\repos\MorseCoder\MorseCoder\obj\Debug\MorseCoder.Properties.Resources.resources
+C:\Users\elro\source\repos\MorseCoder\MorseCoder\obj\Debug\MorseCoder.csproj.GenerateResource.cache
+C:\Users\elro\source\repos\MorseCoder\MorseCoder\obj\Debug\MorseCoder.exe
+C:\Users\elro\source\repos\MorseCoder\MorseCoder\obj\Debug\MorseCoder.pdb
